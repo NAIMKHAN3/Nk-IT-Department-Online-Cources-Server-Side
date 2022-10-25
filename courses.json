@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Adobe PhotoShop",
-        "price": 0,
+        "price": 74,
         "description": "",
         "category": "",
         "image": "./images/adobe photoshop.png",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "title": "Adobe Illustrator",
-        "price": 0,
+        "price": 87,
         "description": "",
         "category": "",
         "image": "./images/adobe illustrator.png",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title": "Microsoft Office",
-        "price": 0,
+        "price": 92,
         "description": "",
         "category": "",
         "image": "./images/microsoft office.png",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title": "Basic Computer",
-        "price": 0,
+        "price": 89,
         "description": "",
         "category": "",
         "image": "./images/basic computer.png",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title": "Front end developer",
-        "price": 0,
+        "price": 158,
         "description": "",
         "category": "",
         "image": "./images/fronend.png",
@@ -47,7 +47,7 @@
     {
         "id": 6,
         "title": "Back end developer",
-        "price": 0,
+        "price": 197,
         "description": "",
         "category": "",
         "image": "./images/backend.png",
