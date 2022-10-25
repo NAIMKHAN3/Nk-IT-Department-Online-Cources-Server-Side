@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Adobe PhotoShop",
+        "price": 0,
+        "description": "",
+        "category": "",
+        "image": "",
+        "rating": 0
+    },
+    {
+        "id": 2,
+        "title": "Adobe Illustrator",
+        "price": 0,
+        "description": "",
+        "category": "",
+        "image": "",
+        "rating": 0
+    },
+    {
+        "id": 3,
+        "title": "Microsoft Office",
+        "price": 0,
+        "description": "",
+        "category": "",
+        "image": "",
+        "rating": 0
+    },
+    {
+        "id": 4,
+        "title": "Basic Computer",
+        "price": 0,
+        "description": "",
+        "category": "",
+        "image": "",
+        "rating": 0
+    },
+    {
+        "id": 5,
+        "title": "Front end developer",
+        "price": 0,
+        "description": "",
+        "category": "",
+        "image": "",
+        "rating": 0
+    },
+    {
+        "id": 6,
+        "title": "Back end developer",
+        "price": 0,
+        "description": "",
+        "category": "",
+        "image": "",
+        "rating": 0
+    }
+]
