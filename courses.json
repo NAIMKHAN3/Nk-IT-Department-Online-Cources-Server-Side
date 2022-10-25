@@ -5,7 +5,7 @@
         "price": 0,
         "description": "",
         "category": "",
-        "image": "",
+        "image": "./images/adobe photoshop.png",
         "rating": 0
     },
     {
@@ -14,7 +14,7 @@
         "price": 0,
         "description": "",
         "category": "",
-        "image": "",
+        "image": "./images/adobe illustrator.png",
         "rating": 0
     },
     {
@@ -23,7 +23,7 @@
         "price": 0,
         "description": "",
         "category": "",
-        "image": "",
+        "image": "./images/microsoft office.png",
         "rating": 0
     },
     {
@@ -32,7 +32,7 @@
         "price": 0,
         "description": "",
         "category": "",
-        "image": "",
+        "image": "./images/basic computer.png",
         "rating": 0
     },
     {
@@ -41,7 +41,7 @@
         "price": 0,
         "description": "",
         "category": "",
-        "image": "",
+        "image": "./images/fronend.png",
         "rating": 0
     },
     {
@@ -50,7 +50,7 @@
         "price": 0,
         "description": "",
         "category": "",
-        "image": "",
+        "image": "./images/backend.png",
         "rating": 0
     }
 ]
