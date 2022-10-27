@@ -4,7 +4,7 @@
         "title": "Adobe PhotoShop",
         "price": 74,
         "description": "Adobe Photoshop is software that is extensively used for raster image editing, graphic design and digital art. It makes use of layering to allow for depth and flexibility in the design and editing process, as well as provide powerful editing tools, that when combined, are capable of just about anything.",
-        "image": "./images/adobe photoshop.png",
+        "image": "https://downloadbytes.com/wp-content/uploads/2019/06/adobe-photoshop-7.0-free-download.jpg",
         "rating": 3.1
     },
     {
@@ -12,7 +12,7 @@
         "title": "Adobe Illustrator",
         "price": 87,
         "description": "Adobe Illustrator is the industry-leading graphic design tool that lets you design anything you can imagine  from logos and icons to graphics and illustrations. and customize it with professional-level precision, as well as time-saving features like Repeat for Patterns or Global Edits. You can use the graphics you create with Illustrator in any size digital or print format, and be confident they ll look exactly the way you designed them.  ",
-        "image": "./images/adobe illustrator.png",
+        "image": "https://www.classcentral.com/report/wp-content/uploads/2022/06/Adobe-Illustrator-BCG-Banner.png",
         "rating": 2.9
     },
     {
@@ -20,7 +20,7 @@
         "title": "Microsoft Office",
         "price": 92,
         "description": "Microsoft Office, or simply Office, is a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates on August 1, 1988, at COMDEX in Las Vegas. Initially a marketing term for an office suite (bundled set of productivity applications), the first version of Office contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint. Over the years, Office applications have grown substantially closer with shared features such as a common spell checker, Object Linking and Embedding data integration and Visual Basic for Applications scripting language. Microsoft also positions Office as a development platform for line-of-business software under the Office Business Applications brand.",
-        "image": "./images/microsoft office.png",
+        "image": "https://www.zerotics.com/wp-content/uploads/2021/08/office-insider-build-780x379-1.png",
         "rating": 3.8
     },
     {
@@ -28,7 +28,7 @@
         "title": "Basic Computer",
         "price": 89,
         "description": "A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data. You may already know that you can use a computer to type documents, send email, play games, and browse the Web. You can also use it to edit or create spreadsheets, presentations, and even videos.",
-        "image": "./images/basic computer.png",
+        "image": "https://informationq.com/wp-content/uploads/2019/06/Free-Basic-Computer-Tutorial-for-Beginners.jpg",
         "rating": 4.1
     },
     {
@@ -36,7 +36,7 @@
         "title": "Front end developer",
         "price": 158,
         "description": "Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing.",
-        "image": "./images/fronend.png",
+        "image": "https://www.trickyenough.com/wp-content/uploads/2020/08/development-scaled.jpg",
         "rating": 4.4
     },
     {
@@ -44,7 +44,7 @@
         "title": "Back end developer",
         "price": 197,
         "description": "Back-end development means working on server-side software, which focuses on everything you can’t see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers. They use code that helps browsers communicate with databases, store, understand, and delete data.",
-        "image": "./images/backend.png",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220309002834/7-Skills-to-Become-a-Backend-Developer.png",
         "rating": 3.5
     }
 ]
