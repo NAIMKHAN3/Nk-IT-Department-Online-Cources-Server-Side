@@ -1,18 +1,18 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-app.use(cors())
+app.use(cors());
 const Port = process.env.Port || 5000;
 
 
 const courses = require("./courses.json");
 
 app.get('/', (req, res) => {
-    res.send('ami active achi')
+    res.send('ami active achi');
 })
 
 app.get('/courses', (req, res) => {
-    res.send(courses)
+    res.send(courses);
 })
 
 app.get('/courses/:id', (req, res) => {
@@ -23,5 +23,5 @@ app.get('/courses/:id', (req, res) => {
 
 
 app.listen(Port, () => {
-    console.log('server is running', Port)
+    console.log('server is running', Port);
 })
